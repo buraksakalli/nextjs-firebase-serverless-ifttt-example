@@ -1,0 +1,10 @@
+{
+  "name": "aws-scheduled-cron",
+  "version": "1.0.0",
+  "description": "CARS24 IFTTT integration with Go Serverless",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
